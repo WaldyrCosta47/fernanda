@@ -1,0 +1,14 @@
+INSTALAÇÃO
+Abra uma pasta no drive  "C" e de o nome de  RESTAURANTE
+Faça uma cópia do c arquivo RESTAURANTE.RAR
+Com o CURSOR sobre o arquivo RESTAURANTE.RAR, clique no botão direito
+em  EXTRAIR AQUI.
+AGUARDE...
+Opós vá no explorador de arquivos, com o cursor AUTOEXEC.BAT e com o botão
+direito clique em  CRIAR ATALHO - uma das ultimas opções.
+Será criado o AUTOEXEC.BAT - atalho.
+Com o curor sobre esse arquivo, use o botão direito. Mantenha-o fixo e
+arraste para a area de trabalho - 
+após clique normalmente no atalho e o programa deverá ser executado. 
+bastará sair do programa e ele se fechara.
+
